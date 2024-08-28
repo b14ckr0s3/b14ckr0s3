@@ -60,6 +60,9 @@
   <a href="https://www.facebook.com/b14ckdr490n" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/tuan.phan.thanh/" alt="Instagram">
+    <img src="https://img.icons8.com/fluency/50/instagram-new.png" target="_blank" />
+  </a>
   <a href="https://www.linkedin.com/in/tuanphanthanh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
