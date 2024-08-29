@@ -1,38 +1,38 @@
-<h1 align="center">Hi, I'm Phan Thanh Tuan 👋</h1>
+<h1 align="center">👋 Hi, I'm B14ckR0s3 👋</h1>
 
-## About me
+## 🥷 About me
 
-> ✍ Hello! My name is Tuan, and I work in Cyber ​​Security. I am passionate about protecting digital environments and ensuring data security. I regularly research to identify vulnerabilities, analyze threats, and develop effective strategies to protect networks and systems. With a solid foundation in cybersecurity principles and hands-on experience with tools such as Snort, Msfvenom, Splunk, Volatility 3... and various network analysis tools.
+> ✍ Hello! My name is B14ckR0s3 (Phan Thanh Tuan), and I work in Cyber ​​Security. I am passionate about protecting digital environments and ensuring data security. I regularly research to identify vulnerabilities, analyze threats, and develop effective strategies to protect networks and systems. With a solid foundation in cybersecurity principles and hands-on experience with tools such as Snort, Msfvenom, Splunk, Volatility 3... and various network analysis tools.
 
 > I actively participate in researching new attack vectors and participate in Capture the Flag (CTF) competitions to challenge myself and improve my skills. I also stay up-to-date by researching the latest Common Vulnerabilities and Exposures (CVEs), which helps me understand and mitigate the risks associated with emerging threats. My journey in cybersecurity is driven by a commitment to continuous learning and a desire to contribute to a safer digital world. ✍
 
 <br />
 
 
-## Skills
+## ⚔️ Skills
 
 <table style="width:100%;">
   <tr>
     <td>
-      ✍ Operating Systems: Windows, Linux 
+      👉 Operating Systems: Windows, Linux 
       <br>
       <br>
-      ✍ System: Windows Server, Microsoft AD, Ubuntu Server
+      👉 System: Windows Server, Microsoft AD, Ubuntu Server
       <br>
       <br>
-      ✍ Networking: IP, OSI, TCP/IP, Routing, Switching, Firewall
+      👉 Networking: IP, OSI, TCP/IP, Routing, Switching, Firewall
       <br>
       <br>
-      ✍ Cybersecurity: Basic Web attacks (XSS, SQL Injection,…), Vulnerability Scanning,...
+      👉 Cybersecurity: Basic Web attacks (XSS, SQL Injection,…), Vulnerability Scanning,...
       <br>
       <br>
-      ✍ Programming: Python, Java, PHP, Javascript
+      👉 Programming: Python, Java, PHP, Javascript
       <br>
       <br>
-      ✍ Database: MySQL, MS SQL Server
+      👉 Database: MySQL, MS SQL Server
       <br>
       <br>
-      ✍ Tools: Kali Linux, Bupsuite, Wireshark, Snort, Splunk, Volatility 3,...
+      👉 Tools: Kali Linux, Bupsuite, Wireshark, Snort, Splunk, Volatility 3,...
     </td>
     <td>
       <p align="center"> 
@@ -43,7 +43,7 @@
 </table>
 
 
-## Certificates
+## 🎓 Certificates
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
@@ -54,7 +54,7 @@
 <!-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)-->
 
 
-## 📫 Contact me
+## ☎️ Contact me
 
 <p align="center">
   <a href="https://www.facebook.com/b14ckdr490n" alt="Facebook">
