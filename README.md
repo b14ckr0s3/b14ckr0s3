@@ -20,16 +20,16 @@
       👉 System: Windows Server, Microsoft AD, Ubuntu Server
       <br>
       <br>
-      👉 Networking: IP, OSI, TCP/IP, Routing, Switching, Firewall
+      👉 Networking: IP, OSI, TCP/IP, Routing, Switching, Firewall,...
       <br>
       <br>
       👉 Cybersecurity: Basic Web attacks (XSS, SQL Injection,…), Vulnerability Scanning,...
       <br>
       <br>
-      👉 Programming: Python, Java, PHP, Javascript
+      👉 Programming: Python, Java, PHP, Javascript,...
       <br>
       <br>
-      👉 Database: MySQL, MS SQL Server
+      👉 Database: MySQL, MS SQL Server,...
       <br>
       <br>
       👉 Tools: Kali Linux, Bupsuite, Wireshark, Snort, Splunk, Volatility 3,...
