@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Phan Thanh Tuan 👋</h1>
+<h1 align="center">👋 Hi, I'm Thanh Tuan 👋</h1>
 
 ## 🥷 About me
 
