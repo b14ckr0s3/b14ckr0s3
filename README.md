@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://github.com/b14ckr0s3" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/?size=48&id=52539&format=png&color=000000"/>
   </a> 
   <a href="mailto:thanhtuan27032012@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
