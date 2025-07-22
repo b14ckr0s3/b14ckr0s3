@@ -64,7 +64,7 @@
     <img src="https://img.icons8.com/fluency/50/instagram-new.png" target="_blank" />
   </a>
   <a href="https://x.com/B14ckR053" alt="X">
-    <img src="https://img.icons8.com/ios-filled/50/twitter.png" target="_blank" />
+    <img src="https://img.icons8.com/?size=50&id=bG29Ckcdp6YP&format=png&color=000000" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/tuanphanthanh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
